@@ -570,19 +570,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@jaronline/example@workspace:packages/example":
-  version: 0.0.0-use.local
-  resolution: "@jaronline/example@workspace:packages/example"
-  dependencies:
-    "@favware/cliff-jumper": ^2.1.1
-    "@vitest/coverage-v8": ^0.33.0
-    esbuild-plugin-file-path-extensions: ^1.0.0
-    tsup: ^7.1.0
-    typescript: ^5.1.6
-    vitest: ^0.33.0
-  languageName: unknown
-  linkType: soft
-
 "@jest/schemas@npm:^29.6.0":
   version: 29.6.0
   resolution: "@jest/schemas@npm:29.6.0"
@@ -693,6 +680,19 @@ __metadata:
   checksum: a50a6818de5fc557d0b0e6f50ec780a7a02ab8ad07e5ac8b16bf519e0ad60a144ac64f97d05c443c3367235d337182e1d012bbac0eb8dbae8dc7b40b193efd0e
   languageName: node
   linkType: hard
+
+"@pixelpizza/example@workspace:packages/example":
+  version: 0.0.0-use.local
+  resolution: "@pixelpizza/example@workspace:packages/example"
+  dependencies:
+    "@favware/cliff-jumper": ^2.1.1
+    "@vitest/coverage-v8": ^0.33.0
+    esbuild-plugin-file-path-extensions: ^1.0.0
+    tsup: ^7.1.0
+    typescript: ^5.1.6
+    vitest: ^0.33.0
+  languageName: unknown
+  linkType: soft
 
 "@pkgjs/parseargs@npm:^0.11.0":
   version: 0.11.0

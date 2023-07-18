@@ -1,5 +1,5 @@
 {
-  "name": "@jaronline/example",
+  "name": "@pixelpizza/example",
   "version": "1.0.0",
   "description": "Example package for TypeScript monorepo projects",
   "main": "dist/index.js",
@@ -40,7 +40,7 @@
     "check-update": "cliff-jumper --dry-run"
   },
   "keywords": [],
-  "author": "@jaronline",
+  "author": "@pixelpizza",
   "license": "MIT",
   "devDependencies": {
     "@favware/cliff-jumper": "^2.1.1",

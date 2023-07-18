@@ -1,4 +1,4 @@
 name: "*next*"
 verbose: true
 package:
-  - "@jaronline/ts-monorepo-template"
+  - "@pixelpizza/example"
